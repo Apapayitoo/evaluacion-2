@@ -1,19 +1,23 @@
 body{
-    background-color: rgb(216, 248, 190);
+    background-color: rgb(215, 205, 155);
 }
-
-#titulo{
-    background-color: #f2e0bd;
-
-    margin-top: 5px;
+#fondo_titulo{
+    background-color: rgba(203, 241, 179, 0.905);
     padding: 15px;
-    border-radius: 5px;
+    border-radius: 35px;
+    margin-top: 10px;
+    margin-right: 550px;
+    margin-left: 500px
+}
+#titulo {
+    color: rgb(0, 0, 0);
+    margin-left: 50px
 }
 #carrusel{
     margin-bottom: 10px;
-    padding: 100px;
+    padding: 90px;
 
 }
 #carta{
-    margin-top: 10px;
+    margin-top: 20px;
 }
