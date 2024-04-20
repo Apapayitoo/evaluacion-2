@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(216, 248, 190);
+}
+
+#titulo{
+    background-color: #f2e0bd;
+
+    margin-top: 5px;
+    padding: 15px;
+    border-radius: 5px;
+}
+#carrusel{
+    margin-bottom: 10px;
+    padding: 100px;
+
+}
+#carta{
+    margin-top: 10px;
+}
